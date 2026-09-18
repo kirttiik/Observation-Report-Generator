@@ -1,0 +1,1909 @@
+<Table><tr><td colspan='13' style='text-align:center'><h2>Staff Observation Report from 01/04/2025 to 15/10/2025</h2></td></tr><tr><td colspan='13' style='text-align:center'>Session :2025-2026</h2></td></tr></Table><div>
+	<table cellspacing="0" rules="all" border="1" id="ctl00_ContentPlaceHolder1_grdObsrveRpt" style="border-collapse:collapse;">
+		<tbody><tr>
+			<th scope="col" style="width:110px;">School</th><th scope="col" style="width:80px;">Location</th><th scope="col" style="width:60px;">No. of Teachers</th><th scope="col" style="width:80px;">Target Observations for Year</th><th scope="col" style="width:60px;">No. of observation till date</th><th scope="col" style="width:120px;">Unique Teacher Count</th><th scope="col" style="width:70px;">Average Rating</th><th scope="col" style="width:90px;">No. of Observations</th><th scope="col" style="width:70px;">No. L1</th><th scope="col" style="width:70px;">No. L2</th><th scope="col" style="width:70px;">No. L3</th><th scope="col" style="width:70px;">L1 %</th><th scope="col" style="width:70px;">L2 %</th><th scope="col" style="width:70px;">L3 %</th><th scope="col">No. of Observations by</th>
+		</tr><tr>
+			<td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl02_lblSchoolName">Adani Public School</span>
+                                
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl02_lblLocation">Mundra</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl02_lblTeachersCount">94</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl02_lblTargetObsrve">752.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl02_lblobservationTilldate">187</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl02_lblTeacherObsrve">34</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl02_lblAvgRating">62.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl02_lblObservationsCount">40</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl02_lblLevelL1">2</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl02_lblLevelL2">27</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl02_lblLevelL3">5</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl02_lblL1Prcnt">2.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl02_lblL2Prcnt">28.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl02_lblL3Prcnt">5.0</span>
+                            </td><td>
+                                <div>
+				<table cellspacing="0" border="0" id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl02_grdObservationsBy" style="border-collapse:collapse;">
+					<tbody><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>HITESH THACKER</b>
+                                                            <small>Coordinator</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl02_grdObservationsBy_ctl02_lblObsCount">3</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>MILAN SAMPAT</b>
+                                                            <small>PRT</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl02_grdObservationsBy_ctl03_lblObsCount">6</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>PARIMAL RAGHAVJI PARMAR</b>
+                                                            <small>Coordinator</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl02_grdObservationsBy_ctl04_lblObsCount">4</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>PRITI B SHARMA</b>
+                                                            <small>Coordinator</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl02_grdObservationsBy_ctl05_lblObsCount">17</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>Dr. RENU PATIDAR</b>
+                                                            <small>Vice Principal</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl02_grdObservationsBy_ctl06_lblObsCount">7</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>HEMANT KUMAR SHARMA</b>
+                                                            <small>Principal Cum Director</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl02_grdObservationsBy_ctl07_lblObsCount">3</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr>
+				</tbody></table>
+			</div>
+
+                            </td>
+		</tr><tr>
+			<td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl03_lblSchoolName">NRC English Medium School</span>
+                                
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl03_lblLocation">Kalyan</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl03_lblTeachersCount">64</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl03_lblTargetObsrve">512.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl03_lblobservationTilldate">368</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl03_lblTeacherObsrve">59</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl03_lblAvgRating">78.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl03_lblObservationsCount">110</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl03_lblLevelL1">0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl03_lblLevelL2">15</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl03_lblLevelL3">44</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl03_lblL1Prcnt">0.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl03_lblL2Prcnt">23.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl03_lblL3Prcnt">68.0</span>
+                            </td><td>
+                                <div>
+				<table cellspacing="0" border="0" id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl03_grdObservationsBy" style="border-collapse:collapse;">
+					<tbody><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>Ashwini Kahar</b>
+                                                            <small>Co-ordinator (Pre-primary)</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl03_grdObservationsBy_ctl02_lblObsCount">9</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>Julie Mathew</b>
+                                                            <small>Vice Principal</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl03_grdObservationsBy_ctl03_lblObsCount">38</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>Minal Mitkari</b>
+                                                            <small>Co-ordinator (Primary)</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl03_grdObservationsBy_ctl04_lblObsCount">19</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>Pearl Ann Peter</b>
+                                                            <small>Co-ordinator (Secondary)</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl03_grdObservationsBy_ctl05_lblObsCount">14</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>Sanjay Mehta</b>
+                                                            <small>Principal</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl03_grdObservationsBy_ctl06_lblObsCount">30</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr>
+				</tbody></table>
+			</div>
+
+                            </td>
+		</tr><tr>
+			<td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl04_lblSchoolName">Adani World School</span>
+                                
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl04_lblLocation">Nellore</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl04_lblTeachersCount">33</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl04_lblTargetObsrve">264.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl04_lblobservationTilldate">104</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl04_lblTeacherObsrve">15</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl04_lblAvgRating">64.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl04_lblObservationsCount">32</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl04_lblLevelL1">1</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl04_lblLevelL2">11</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl04_lblLevelL3">3</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl04_lblL1Prcnt">3.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl04_lblL2Prcnt">33.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl04_lblL3Prcnt">9.0</span>
+                            </td><td>
+                                <div>
+				<table cellspacing="0" border="0" id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl04_grdObservationsBy" style="border-collapse:collapse;">
+					<tbody><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>SUMAN MISHRA </b>
+                                                            <small>TGT</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl04_grdObservationsBy_ctl02_lblObsCount">13</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>BITRA USHA RANI </b>
+                                                            <small>PPRT</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl04_grdObservationsBy_ctl03_lblObsCount">3</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>Viraj </b>
+                                                            <small>Mgmt</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl04_grdObservationsBy_ctl04_lblObsCount">10</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>AVINASH N</b>
+                                                            <small>PRT</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl04_grdObservationsBy_ctl05_lblObsCount">6</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr>
+				</tbody></table>
+			</div>
+
+                            </td>
+		</tr><tr>
+			<td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl05_lblSchoolName">Adani Vidya Mandir</span>
+                                
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl05_lblLocation">Ahmedabad</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl05_lblTeachersCount">49</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl05_lblTargetObsrve">392.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl05_lblobservationTilldate">172</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl05_lblTeacherObsrve">33</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl05_lblAvgRating">76.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl05_lblObservationsCount">62</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl05_lblLevelL1">0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl05_lblLevelL2">11</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl05_lblLevelL3">22</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl05_lblL1Prcnt">0.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl05_lblL2Prcnt">22.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl05_lblL3Prcnt">44.0</span>
+                            </td><td>
+                                <div>
+				<table cellspacing="0" border="0" id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl05_grdObservationsBy" style="border-collapse:collapse;">
+					<tbody><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>Kashish Sharma</b>
+                                                            <small>PRT</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl05_grdObservationsBy_ctl02_lblObsCount">14</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>Shahina Shaikh</b>
+                                                            <small>TGT</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl05_grdObservationsBy_ctl03_lblObsCount">8</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>Shaily Mishra</b>
+                                                            <small>Vice Principal</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl05_grdObservationsBy_ctl04_lblObsCount">25</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>Shilpa Indoria</b>
+                                                            <small>Principal</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl05_grdObservationsBy_ctl05_lblObsCount">15</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr>
+				</tbody></table>
+			</div>
+
+                            </td>
+		</tr><tr>
+			<td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl06_lblSchoolName">Adani Vidya Mandir</span>
+                                
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl06_lblLocation">Surguja</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl06_lblTeachersCount">40</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl06_lblTargetObsrve">320.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl06_lblobservationTilldate">45</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl06_lblTeacherObsrve">23</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl06_lblAvgRating">70.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl06_lblObservationsCount">31</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl06_lblLevelL1">0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl06_lblLevelL2">16</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl06_lblLevelL3">7</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl06_lblL1Prcnt">0.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl06_lblL2Prcnt">40.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl06_lblL3Prcnt">17.0</span>
+                            </td><td>
+                                <div>
+				<table cellspacing="0" border="0" id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl06_grdObservationsBy" style="border-collapse:collapse;">
+					<tbody><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>JEETENDRA KUMAR MEHER</b>
+                                                            <small>TGT</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl06_grdObservationsBy_ctl02_lblObsCount">13</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>RAJENDRA PATEL</b>
+                                                            <small>TGT</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl06_grdObservationsBy_ctl03_lblObsCount">6</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>Akanksha Gupta</b>
+                                                            <small>TGT</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl06_grdObservationsBy_ctl04_lblObsCount">7</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>Dr Thaneshwar Lal Verma</b>
+                                                            <small>Vice Principal</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl06_grdObservationsBy_ctl05_lblObsCount">5</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr>
+				</tbody></table>
+			</div>
+
+                            </td>
+		</tr><tr>
+			<td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl07_lblSchoolName">Adani Vidya Mandir</span>
+                                
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl07_lblLocation">Bhadreshwar</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl07_lblTeachersCount">30</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl07_lblTargetObsrve">240.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl07_lblobservationTilldate">160</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl07_lblTeacherObsrve">16</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl07_lblAvgRating">67.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl07_lblObservationsCount">30</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl07_lblLevelL1">0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl07_lblLevelL2">14</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl07_lblLevelL3">2</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl07_lblL1Prcnt">0.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl07_lblL2Prcnt">46.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl07_lblL3Prcnt">6.0</span>
+                            </td><td>
+                                <div>
+				<table cellspacing="0" border="0" id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl07_grdObservationsBy" style="border-collapse:collapse;">
+					<tbody><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>Asutosh Thakar</b>
+                                                            <small>Principal</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl07_grdObservationsBy_ctl02_lblObsCount">8</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>Mahendra Parmar</b>
+                                                            <small>Vice Principal</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl07_grdObservationsBy_ctl03_lblObsCount">10</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>Pankaj Variya</b>
+                                                            <small>PRT</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl07_grdObservationsBy_ctl04_lblObsCount">12</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr>
+				</tbody></table>
+			</div>
+
+                            </td>
+		</tr><tr>
+			<td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl08_lblSchoolName">Adani Vidya Mandir</span>
+                                
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl08_lblLocation">Krishnapatnam</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl08_lblTeachersCount">43</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl08_lblTargetObsrve">344.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl08_lblobservationTilldate">268</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl08_lblTeacherObsrve">32</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl08_lblAvgRating">73.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl08_lblObservationsCount">61</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl08_lblLevelL1">0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl08_lblLevelL2">16</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl08_lblLevelL3">16</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl08_lblL1Prcnt">0.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl08_lblL2Prcnt">37.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl08_lblL3Prcnt">37.0</span>
+                            </td><td>
+                                <div>
+				<table cellspacing="0" border="0" id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl08_grdObservationsBy" style="border-collapse:collapse;">
+					<tbody><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>J. Srinivasa Rao </b>
+                                                            <small>Principal</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl08_grdObservationsBy_ctl02_lblObsCount">31</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>Sunny Damien Bomjan </b>
+                                                            <small>Coordinator</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl08_grdObservationsBy_ctl03_lblObsCount">25</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>Krishna Veni Pagadala</b>
+                                                            <small>Coordinator</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl08_grdObservationsBy_ctl04_lblObsCount">5</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr>
+				</tbody></table>
+			</div>
+
+                            </td>
+		</tr><tr>
+			<td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl09_lblSchoolName">Adani Vidyalaya</span>
+                                
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl09_lblLocation">Tiroda</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl09_lblTeachersCount">14</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl09_lblTargetObsrve">112.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl09_lblobservationTilldate">90</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl09_lblTeacherObsrve">9</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl09_lblAvgRating">76.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl09_lblObservationsCount">23</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl09_lblLevelL1">0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl09_lblLevelL2">4</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl09_lblLevelL3">5</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl09_lblL1Prcnt">0.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl09_lblL2Prcnt">28.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl09_lblL3Prcnt">35.0</span>
+                            </td><td>
+                                <div>
+				<table cellspacing="0" border="0" id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl09_grdObservationsBy" style="border-collapse:collapse;">
+					<tbody><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>Reeti Khare</b>
+                                                            <small>Coordinator</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl09_grdObservationsBy_ctl02_lblObsCount">14</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>Jyoti Mirajkar</b>
+                                                            <small>Principal</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl09_grdObservationsBy_ctl03_lblObsCount">9</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr>
+				</tbody></table>
+			</div>
+
+                            </td>
+		</tr><tr>
+			<td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl10_lblSchoolName">Adani Vidyalaya</span>
+                                
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl10_lblLocation">Kawai</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl10_lblTeachersCount">14</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl10_lblTargetObsrve">112.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl10_lblobservationTilldate">107</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl10_lblTeacherObsrve">13</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl10_lblAvgRating">73.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl10_lblObservationsCount">25</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl10_lblLevelL1">0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl10_lblLevelL2">4</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl10_lblLevelL3">9</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl10_lblL1Prcnt">0.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl10_lblL2Prcnt">28.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl10_lblL3Prcnt">64.0</span>
+                            </td><td>
+                                <div>
+				<table cellspacing="0" border="0" id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl10_grdObservationsBy" style="border-collapse:collapse;">
+					<tbody><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>SHWETA JAIN</b>
+                                                            <small>PRT</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl10_grdObservationsBy_ctl02_lblObsCount">8</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>SURYAKANTI MISHRA</b>
+                                                            <small>PRINCIPAL</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl10_grdObservationsBy_ctl03_lblObsCount">7</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>NEELAM PRAVIN PAUL</b>
+                                                            <small>PRINCIPAL</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl10_grdObservationsBy_ctl04_lblObsCount">10</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr>
+				</tbody></table>
+			</div>
+
+                            </td>
+		</tr><tr>
+			<td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl11_lblSchoolName">Guwahati Airport School</span>
+                                
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl11_lblLocation">Guwahati</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl11_lblTeachersCount">27</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl11_lblTargetObsrve">216.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl11_lblobservationTilldate">133</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl11_lblTeacherObsrve">24</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl11_lblAvgRating">65.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl11_lblObservationsCount">63</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl11_lblLevelL1">1</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl11_lblLevelL2">20</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl11_lblLevelL3">3</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl11_lblL1Prcnt">3.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl11_lblL2Prcnt">74.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl11_lblL3Prcnt">11.0</span>
+                            </td><td>
+                                <div>
+				<table cellspacing="0" border="0" id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl11_grdObservationsBy" style="border-collapse:collapse;">
+					<tbody><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>BIDISHA DUTTA</b>
+                                                            <small>PRINCIPAL</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl11_grdObservationsBy_ctl02_lblObsCount">7</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>JURI DEKA</b>
+                                                            <small>PRT</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl11_grdObservationsBy_ctl03_lblObsCount">56</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr>
+				</tbody></table>
+			</div>
+
+                            </td>
+		</tr><tr>
+			<td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl12_lblSchoolName">Kamala Rani Sanghi Public School</span>
+                                
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl12_lblLocation">Kutch(Gujarat)</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl12_lblTeachersCount">29</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl12_lblTargetObsrve">232.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl12_lblobservationTilldate">145</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl12_lblTeacherObsrve">24</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl12_lblAvgRating">68.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl12_lblObservationsCount">74</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl12_lblLevelL1">0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl12_lblLevelL2">23</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl12_lblLevelL3">1</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl12_lblL1Prcnt">0.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl12_lblL2Prcnt">79.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl12_lblL3Prcnt">3.0</span>
+                            </td><td>
+                                <div>
+				<table cellspacing="0" border="0" id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl12_grdObservationsBy" style="border-collapse:collapse;">
+					<tbody><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>Jayram Yadav</b>
+                                                            <small>PGT</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl12_grdObservationsBy_ctl02_lblObsCount">74</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr>
+				</tbody></table>
+			</div>
+
+                            </td>
+		</tr><tr>
+			<td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl13_lblSchoolName">Mount Carmel Convent Sr. Sec. School</span>
+                                
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl13_lblLocation">Cement Nagar</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl13_lblTeachersCount">76</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl13_lblTargetObsrve">608.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl13_lblobservationTilldate">198</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl13_lblTeacherObsrve">52</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl13_lblAvgRating">77.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl13_lblObservationsCount">63</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl13_lblLevelL1">1</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl13_lblLevelL2">16</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl13_lblLevelL3">35</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl13_lblL1Prcnt">1.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl13_lblL2Prcnt">21.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl13_lblL3Prcnt">46.0</span>
+                            </td><td>
+                                <div>
+				<table cellspacing="0" border="0" id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl13_grdObservationsBy" style="border-collapse:collapse;">
+					<tbody><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>QUEENA FERNANDO</b>
+                                                            <small>Principal</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl13_grdObservationsBy_ctl02_lblObsCount">34</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>BINDUPRIYA SASI</b>
+                                                            <small>Vice Principal</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl13_grdObservationsBy_ctl03_lblObsCount">29</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr>
+				</tbody></table>
+			</div>
+
+                            </td>
+		</tr><tr>
+			<td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl14_lblSchoolName">Acc Mount Carmel Adani School</span>
+                                
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl14_lblLocation">Sindola Mines</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl14_lblTeachersCount">18</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl14_lblTargetObsrve">144.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl14_lblobservationTilldate">70</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl14_lblTeacherObsrve">1</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl14_lblAvgRating">86.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl14_lblObservationsCount">1</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl14_lblLevelL1">0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl14_lblLevelL2">0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl14_lblLevelL3">1</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl14_lblL1Prcnt">0.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl14_lblL2Prcnt">0.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl14_lblL3Prcnt">5.0</span>
+                            </td><td>
+                                <div>
+				<table cellspacing="0" border="0" id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl14_grdObservationsBy" style="border-collapse:collapse;">
+					<tbody><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>SHIKHA CHATTERJEE</b>
+                                                            <small>Principal</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl14_grdObservationsBy_ctl02_lblObsCount">1</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr>
+				</tbody></table>
+			</div>
+
+                            </td>
+		</tr><tr>
+			<td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl15_lblSchoolName">ACC Higher Secondary School</span>
+                                
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl15_lblLocation">Kymore, Madhya Pradesh</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl15_lblTeachersCount">36</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl15_lblTargetObsrve">288.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl15_lblobservationTilldate">123</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl15_lblTeacherObsrve">31</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl15_lblAvgRating">78.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl15_lblObservationsCount">33</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl15_lblLevelL1">0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl15_lblLevelL2">5</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl15_lblLevelL3">26</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl15_lblL1Prcnt">0.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl15_lblL2Prcnt">13.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl15_lblL3Prcnt">72.0</span>
+                            </td><td>
+                                <div>
+				<table cellspacing="0" border="0" id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl15_grdObservationsBy" style="border-collapse:collapse;">
+					<tbody><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>SUDHANSHU KUMAR MISHRA</b>
+                                                            <small>PRINCIPAL</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl15_grdObservationsBy_ctl02_lblObsCount">33</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr>
+				</tbody></table>
+			</div>
+
+                            </td>
+		</tr><tr>
+			<td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl16_lblSchoolName">ACC Middle School</span>
+                                
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl16_lblLocation">Jhinkpani, Jharkhand</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl16_lblTeachersCount">14</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl16_lblTargetObsrve">112.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl16_lblobservationTilldate">63</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl16_lblTeacherObsrve">8</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl16_lblAvgRating">63.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl16_lblObservationsCount">9</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl16_lblLevelL1">0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl16_lblLevelL2">6</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl16_lblLevelL3">2</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl16_lblL1Prcnt">0.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl16_lblL2Prcnt">42.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl16_lblL3Prcnt">14.0</span>
+                            </td><td>
+                                <div>
+				<table cellspacing="0" border="0" id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl16_grdObservationsBy" style="border-collapse:collapse;">
+					<tbody><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>SAVITRI SAWAIYAN</b>
+                                                            <small>Coordinator cum teacher</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl16_grdObservationsBy_ctl02_lblObsCount">9</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr>
+				</tbody></table>
+			</div>
+
+                            </td>
+		</tr><tr>
+			<td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl17_lblSchoolName">ACC Upper Primary School</span>
+                                
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl17_lblLocation">Lakheri, Rajasthan</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl17_lblTeachersCount">12</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl17_lblTargetObsrve">96.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl17_lblobservationTilldate">41</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl17_lblTeacherObsrve">7</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl17_lblAvgRating">57.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl17_lblObservationsCount">7</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl17_lblLevelL1">0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl17_lblLevelL2">7</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl17_lblLevelL3">0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl17_lblL1Prcnt">0.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl17_lblL2Prcnt">58.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl17_lblL3Prcnt">0.0</span>
+                            </td><td>
+                                <div>
+				<table cellspacing="0" border="0" id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl17_grdObservationsBy" style="border-collapse:collapse;">
+					<tbody><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>SALIM MOHAMMED</b>
+                                                            <small>Principal</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl17_grdObservationsBy_ctl02_lblObsCount">7</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr>
+				</tbody></table>
+			</div>
+
+                            </td>
+		</tr><tr>
+			<td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl18_lblSchoolName">ACC Middle School</span>
+                                
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl18_lblLocation">Jamul, Chhattisgarh</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl18_lblTeachersCount">16</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl18_lblTargetObsrve">128.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl18_lblobservationTilldate">128</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl18_lblTeacherObsrve">15</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl18_lblAvgRating">72.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl18_lblObservationsCount">17</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl18_lblLevelL1">0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl18_lblLevelL2">10</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl18_lblLevelL3">5</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl18_lblL1Prcnt">0.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl18_lblL2Prcnt">62.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl18_lblL3Prcnt">31.0</span>
+                            </td><td>
+                                <div>
+				<table cellspacing="0" border="0" id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl18_grdObservationsBy" style="border-collapse:collapse;">
+					<tbody><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>DR.RAKHI SHRIVASTAVA</b>
+                                                            <small>HEADMISTRESS</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl18_grdObservationsBy_ctl02_lblObsCount">17</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr>
+				</tbody></table>
+			</div>
+
+                            </td>
+		</tr><tr>
+			<td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl19_lblSchoolName">Ambuja Public School</span>
+                                
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl19_lblLocation">Rabariyawas, Rajasthan</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl19_lblTeachersCount">44</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl19_lblTargetObsrve">352.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl19_lblobservationTilldate">85</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl19_lblTeacherObsrve">34</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl19_lblAvgRating">71.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl19_lblObservationsCount">60</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl19_lblLevelL1">0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl19_lblLevelL2">20</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl19_lblLevelL3">14</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl19_lblL1Prcnt">0.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl19_lblL2Prcnt">45.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl19_lblL3Prcnt">31.0</span>
+                            </td><td>
+                                <div>
+				<table cellspacing="0" border="0" id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl19_grdObservationsBy" style="border-collapse:collapse;">
+					<tbody><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>Gaurav Rana</b>
+                                                            <small></small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl19_grdObservationsBy_ctl02_lblObsCount">1</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>MONICA GOKLANI</b>
+                                                            <small>PRT</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl19_grdObservationsBy_ctl03_lblObsCount">10</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>VIKAS CHANDRA JAIN</b>
+                                                            <small>TGT</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl19_grdObservationsBy_ctl04_lblObsCount">19</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>RAGHUVIR SINGH</b>
+                                                            <small>Principal</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl19_grdObservationsBy_ctl05_lblObsCount">15</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>RAJESH KUMAR SAXENA</b>
+                                                            <small>Principal</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl19_grdObservationsBy_ctl06_lblObsCount">8</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>NISHA RANAWAT</b>
+                                                            <small>PRT</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl19_grdObservationsBy_ctl07_lblObsCount">4</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>Dr.Kavita </b>
+                                                            <small>Admin</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl19_grdObservationsBy_ctl08_lblObsCount">3</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr>
+				</tbody></table>
+			</div>
+
+                            </td>
+		</tr><tr>
+			<td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl20_lblSchoolName">Ambuja Vidya Niketan</span>
+                                
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl20_lblLocation">Kodinar, Gujarat</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl20_lblTeachersCount">47</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl20_lblTargetObsrve">376.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl20_lblobservationTilldate">83</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl20_lblTeacherObsrve">29</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl20_lblAvgRating">79.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl20_lblObservationsCount">51</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl20_lblLevelL1">0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl20_lblLevelL2">10</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl20_lblLevelL3">19</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl20_lblL1Prcnt">0.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl20_lblL2Prcnt">21.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl20_lblL3Prcnt">40.0</span>
+                            </td><td>
+                                <div>
+				<table cellspacing="0" border="0" id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl20_grdObservationsBy" style="border-collapse:collapse;">
+					<tbody><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>DR. RAJESH GANAI</b>
+                                                            <small>PGT</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl20_grdObservationsBy_ctl02_lblObsCount">16</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>RACHIT DESAI</b>
+                                                            <small>TGT</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl20_grdObservationsBy_ctl03_lblObsCount">2</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>MAYANK CHAUHAN</b>
+                                                            <small>TGT</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl20_grdObservationsBy_ctl04_lblObsCount">33</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr>
+				</tbody></table>
+			</div>
+
+                            </td>
+		</tr><tr>
+			<td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl21_lblSchoolName">Ambuja Vidya Niketan</span>
+                                
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl21_lblLocation">Upparwahi, Maharashtra</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl21_lblTeachersCount">47</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl21_lblTargetObsrve">376.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl21_lblobservationTilldate">167</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl21_lblTeacherObsrve">27</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl21_lblAvgRating">74.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl21_lblObservationsCount">32</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl21_lblLevelL1">0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl21_lblLevelL2">18</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl21_lblLevelL3">9</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl21_lblL1Prcnt">0.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl21_lblL2Prcnt">38.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl21_lblL3Prcnt">19.0</span>
+                            </td><td>
+                                <div>
+				<table cellspacing="0" border="0" id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl21_grdObservationsBy" style="border-collapse:collapse;">
+					<tbody><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>AMBER TRIVEDI</b>
+                                                            <small>Coordinator</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl21_grdObservationsBy_ctl02_lblObsCount">13</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>LOMESH POTRAJE</b>
+                                                            <small>TGT</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl21_grdObservationsBy_ctl03_lblObsCount">1</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>RAJESH SHARMA</b>
+                                                            <small>Principal</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl21_grdObservationsBy_ctl04_lblObsCount">18</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr>
+				</tbody></table>
+			</div>
+
+                            </td>
+		</tr><tr>
+			<td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl22_lblSchoolName">Ambuja Vidya Peeth</span>
+                                
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl22_lblLocation">Rawan, Chhattisgarh</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl22_lblTeachersCount">59</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl22_lblTargetObsrve">472.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl22_lblobservationTilldate">325</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl22_lblTeacherObsrve">50</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl22_lblAvgRating">62.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl22_lblObservationsCount">86</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl22_lblLevelL1">0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl22_lblLevelL2">44</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl22_lblLevelL3">6</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl22_lblL1Prcnt">0.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl22_lblL2Prcnt">74.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl22_lblL3Prcnt">10.0</span>
+                            </td><td>
+                                <div>
+				<table cellspacing="0" border="0" id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl22_grdObservationsBy" style="border-collapse:collapse;">
+					<tbody><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>USHA PAKHODE</b>
+                                                            <small>PGT</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl22_grdObservationsBy_ctl02_lblObsCount">12</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>SANJAY KUMAR PANDEY</b>
+                                                            <small>PRINCIPAL</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl22_grdObservationsBy_ctl03_lblObsCount">57</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>PADMAKAR MISHRA</b>
+                                                            <small>PGT</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl22_grdObservationsBy_ctl04_lblObsCount">15</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>SANDEEP BASU</b>
+                                                            <small>PGT</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl22_grdObservationsBy_ctl05_lblObsCount">1</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>GANGOTRI MISHRA</b>
+                                                            <small>TGT</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl22_grdObservationsBy_ctl06_lblObsCount">1</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr>
+				</tbody></table>
+			</div>
+
+                            </td>
+		</tr><tr>
+			<td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl23_lblSchoolName">Penna English Medium High School</span>
+                                
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl23_lblLocation">Boyareddypalli, Andhra Pradesh</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl23_lblTeachersCount">19</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl23_lblTargetObsrve">152.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl23_lblobservationTilldate">26</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl23_lblTeacherObsrve">14</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl23_lblAvgRating">68.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl23_lblObservationsCount">16</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl23_lblLevelL1">0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl23_lblLevelL2">12</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl23_lblLevelL3">2</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl23_lblL1Prcnt">0.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl23_lblL2Prcnt">63.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl23_lblL3Prcnt">10.0</span>
+                            </td><td>
+                                <div>
+				<table cellspacing="0" border="0" id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl23_grdObservationsBy" style="border-collapse:collapse;">
+					<tbody><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>NAGAMANI THOMMANDRU</b>
+                                                            <small>Principal</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl23_grdObservationsBy_ctl02_lblObsCount">16</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr>
+				</tbody></table>
+			</div>
+
+                            </td>
+		</tr><tr>
+			<td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl24_lblSchoolName">Penna English Medium High School</span>
+                                
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl24_lblLocation">Talaricheruvu, Andhra Pradesh</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl24_lblTeachersCount">25</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl24_lblTargetObsrve">200.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl24_lblobservationTilldate">77</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl24_lblTeacherObsrve">22</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl24_lblAvgRating">69.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl24_lblObservationsCount">23</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl24_lblLevelL1">0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl24_lblLevelL2">18</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl24_lblLevelL3">4</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl24_lblL1Prcnt">0.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl24_lblL2Prcnt">72.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl24_lblL3Prcnt">16.0</span>
+                            </td><td>
+                                <div>
+				<table cellspacing="0" border="0" id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl24_grdObservationsBy" style="border-collapse:collapse;">
+					<tbody><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>K. CHIRANJEEVI</b>
+                                                            <small>Principal</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl24_grdObservationsBy_ctl02_lblObsCount">23</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr>
+				</tbody></table>
+			</div>
+
+                            </td>
+		</tr><tr>
+			<td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl25_lblSchoolName">Shram Niketan Higher Secondary School</span>
+                                
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl25_lblLocation">Jamul, Chhattisgarh</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl25_lblTeachersCount">12</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl25_lblTargetObsrve">96.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl25_lblobservationTilldate">100</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl25_lblTeacherObsrve">11</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl25_lblAvgRating">78.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl25_lblObservationsCount">13</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl25_lblLevelL1">0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl25_lblLevelL2">5</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl25_lblLevelL3">6</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl25_lblL1Prcnt">0.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl25_lblL2Prcnt">41.0</span>
+                            </td><td>
+                                <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl25_lblL3Prcnt">50.0</span>
+                            </td><td>
+                                <div>
+				<table cellspacing="0" border="0" id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl25_grdObservationsBy" style="border-collapse:collapse;">
+					<tbody><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>PRASHANT CHOUBEY</b>
+                                                            <small>Principal</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl25_grdObservationsBy_ctl02_lblObsCount">11</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr><tr>
+						<td>
+                                                <div class="obs_by_conn">
+                                                    <ul>
+                                                        <li>
+                                                            <b>VASNA SAHU</b>
+                                                            <small>PGT</small>
+                                                        </li>
+                                                        <li>
+                                                             <span id="ctl00_ContentPlaceHolder1_grdObsrveRpt_ctl25_grdObservationsBy_ctl03_lblObsCount">2</span>
+                                                             
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+					</tr>
+				</tbody></table>
+			</div>
+
+                            </td>
+		</tr>
+	</tbody></table>
+</div>

@@ -1,0 +1,15 @@
+Col 0: Adani Public School
+Col 1: Mundra
+Col 2: 94.0
+Col 3: 752.0
+Col 4: 187.0
+Col 5: 97.0
+Col 6: 65.0
+Col 7: 187.0
+Col 8: 1.0
+Col 9: 78.0
+Col 10: 18.0
+Col 11: 1.0
+Col 12: 82.0
+Col 13: 19.0
+Col 14: HITESH THACKER  Coordinator  31  MILAN SAMPAT  PRT  23  PARIMAL RAGHAVJI PARMAR  Coordinator  18  PRITI B SHARMA  Coordinator  37  Dr. RENU PATIDAR  Vice Principal  37  HEMANT KUMAR SHARMA  Principal Cum Director  41
