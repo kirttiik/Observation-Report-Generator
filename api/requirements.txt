@@ -6,5 +6,4 @@ openpyxl
 xlrd
 lxml
 html5lib
-Pillow  
- 
+Pillow
